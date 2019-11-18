@@ -1,4 +1,4 @@
-# scraper_regression
+# EcommCrawler_LR
 
 Two notebooks in this repo
 1. Scraper.ipynb
